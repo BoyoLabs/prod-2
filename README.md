@@ -4,3 +4,4 @@ SPA's mostly. My first repo for development was main-dev, but now that one is ge
 ## removeMalwareBytes.ps1
 
 * a script to quietly remove malwarebytes from a users computer using MDM and other device management systems like ninjaOne
+* source link: https://github.com/BoyoLabs/main-dev-2/blob/main/removeMalwareBytes.ps1
